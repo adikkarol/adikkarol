@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 🔭 I’m interested in learning new technologies
-## 📫 I'm working on this GitHub Project
-## 🏀 My favourite hobby is basketball
+#### 🔭 I’m interested in learning new technologies
+#### 📫 I'm working on this GitHub Project
+#### 🏀 My favourite hobby is basketball
